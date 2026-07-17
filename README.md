@@ -1,0 +1,2 @@
+# Smart-Livestock-and-Poultry-Farm-Management-System
+Smart Livestock &amp; Poultry Farm Management System is a Streamlit-based application for small farmers to manage native chickens, goats, and cows. It tracks livestock entries, feed, employee, and expenses, sales, available stock, profit/loss, and analytics through a simple dashboard, enabling better farm management and financial decision-making.
