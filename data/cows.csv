@@ -1,1 +1,2 @@
-
+Cow ID,Breed,Purchase Date,Purchased,Sold,Dead,Rate,Gender,Age (Years),Weight (Kg),Purchase Price,Milk Per Day (L),Pregnancy Status,Vaccinated,Health Status,Supplier,Remarks
+COW-0001,Jersey,2026-07-20,1,0,0,,Male,3.0,350.0,65000.0,10.0,Pregnant,Yes,Healthy,,
